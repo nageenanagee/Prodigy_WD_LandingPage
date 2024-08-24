@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+.bg {
+  background-image: url("https://t4.ftcdn.net/jpg/00/78/97/35/360_F_78973579_sYLDxFsEKOWnxyi9iMVVj4NuPGURN375.jpg");
+  background-size: cover;
+  height: 110vh;
+}
+
+ul {
+  justify-content: space-evenly;
+}
+
+.button-1 {
+  width: 60px;
+  border-radius: 5px;
+  border-color: white;
+}
+
+.button-2 {
+  width: 100px;
+  background-color: blue;
+  border-radius: 5px;
+  border-color: transparent;
+}
+
+.main {
+  padding: 300px;
+}
+
+.button-3 {
+  width: 120px;
+  height: 50px;
+  margin: 5px;
+  color: white;
+  border-radius: 10px;
+  border-color: transparent;
+}
+
+.button-4 {
+  width: 110px;
+  height: 50px;
+  margin: 5px;
+  color: blue;
+  border-radius: 10px;
+  border-color: transparent;
+}
